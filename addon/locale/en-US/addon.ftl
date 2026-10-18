@@ -1,0 +1,11 @@
+startup-begin = CiteBloom is loading
+startup-finish = CiteBloom is ready
+menuitem-label = CiteBloom
+menupopup-label = CiteBloom
+menuitem-submenulabel = CiteBloom
+menuitem-filemenulabel = CiteBloom
+prefs-title = CiteBloom
+prefs-table-title = CiteBloom
+prefs-table-detail = CiteBloom
+tabpanel-lib-tab-label = CiteBloom
+tabpanel-reader-tab-label = CiteBloom

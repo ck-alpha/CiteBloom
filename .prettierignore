@@ -1,0 +1,6 @@
+addon/content/vendor
+node_modules
+package-lock.json
+.scaffold
+build
+logs
